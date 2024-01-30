@@ -2,6 +2,7 @@
 
 * Студент: [Мария Пермина](https://up.htmlacademy.ru/htmlcss/39/user/2425697).
 * Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
+* Сайт: [Мой проект Седона](https://iampermina.github.io/2425697-sedona-39/)
 
 ---
 
